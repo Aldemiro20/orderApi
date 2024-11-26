@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\orderApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\services\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:services\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\data\\map\\ordermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:data\\map\\ordermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\enums\\orderstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:enums\\orderstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\services\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:services\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\utils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:utils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|c:\\users\\victo\\source\\repos\\orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A9BE9AE-1A8F-4B17-B765-46705A41FD32}|orderApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:53:25.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:49:52.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:32:02.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMQConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Services\\RabbitMQConsumerService.cs",
+              "RelativeDocumentMoniker": "Services\\RabbitMQConsumerService.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Services\\RabbitMQConsumerService.cs",
+              "RelativeToolTip": "Services\\RabbitMQConsumerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:22:02.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQProducer.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Services\\RabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "Services\\RabbitMQProducer.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Services\\RabbitMQProducer.cs",
+              "RelativeToolTip": "Services\\RabbitMQProducer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwEcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:22:33.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Enums\\OrderStatusEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\OrderStatusEnum.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Enums\\OrderStatusEnum.cs",
+              "RelativeToolTip": "Enums\\OrderStatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:04:19.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:12:56.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Data\\OrderDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\OrderDBContext.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Data\\OrderDBContext.cs",
+              "RelativeToolTip": "Data\\OrderDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:58:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderMap.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Data\\Map\\OrderMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\OrderMap.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Data\\Map\\OrderMap.cs",
+              "RelativeToolTip": "Data\\Map\\OrderMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:56:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T09:42:46.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "Services\\RedisService.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Services\\RedisService.cs",
+              "RelativeToolTip": "Services\\RedisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:43:58.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Utils\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Utils\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Utils\\ApiResponse.cs",
+              "RelativeToolTip": "Utils\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:09:14.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:42:34.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T12:38:23.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\orderApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\orderApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T12:00:28.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
